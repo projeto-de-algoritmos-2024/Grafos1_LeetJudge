@@ -85,12 +85,6 @@ class Grafo:
                 dfs_ordem(i + 1)
         return ordem[::-1]
 
-    def mostraAdjacencia(self):
-        for i in range(self.k):
-            print(f'{i+1}:', end='  ')
-            for j in self.grafo[i]:
-                print(f'{j}  ->', end='  ')
-            print('')
 
 
 sol = Solution()
