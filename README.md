@@ -42,3 +42,4 @@ As questões são:
 - [Questão 847](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/)
 - [Questão 2392](https://leetcode.com/problems/build-a-matrix-with-conditions/)
 
+Alternativamente você pode ter o Python instalado e executar os arquivos de teste.
