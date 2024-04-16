@@ -12,6 +12,9 @@
 ## Sobre 
 Resolver duas questões dificeis e uma media utilizando os conceitos de grafos aprendidos na disciplina de Projetos de Algoritimos da Universidade de Brasilia.
 
+## Video de apresentação
+O video de apresentação pode ser encontrado em [link](video.mp4)
+
 ## Screenshots
 
 **Questão 797 após submição**
