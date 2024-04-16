@@ -19,9 +19,9 @@ Resolver duas questões dificeis e uma media utilizando os conceitos de grafos a
 ![img797](assets/img797.png)
 
 
-**Questão 847 após submição**
+**Questão 332 após submição**
 
-![img](assets/img847.png)
+![img](assets/img332.png)
 
 **Questão 2392 após submição**
 
@@ -39,7 +39,7 @@ Você pode apenas entrar na questão especifica do juiz virtual e fazer a submi�
 As questões são:
 
 - [Questão 797](https://leetcode.com/problems/all-paths-from-source-to-target/description/)
-- [Questão 847](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/)
+- [Questão 332](https://leetcode.com/problems/reconstruct-itinerary/description/)
 - [Questão 2392](https://leetcode.com/problems/build-a-matrix-with-conditions/)
 
 Alternativamente você pode ter o Python instalado e executar os arquivos de teste.
